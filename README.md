@@ -7,7 +7,7 @@
 
 *Tecnologia, criatividade e aprendizado a cada projeto.*
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-Antônia_Costa-D566AA?style=for-the-badge)](https://antoniacosta25.github.io/) [![GitHub](https://img.shields.io/badge/Projetos-GitHub-513364?style=for-the-badge&logo=github)](https://github.com/antoniacosta25?tab=repositories)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Antônia_Costa-D566AA?style=for-the-badge)](https://antoniacosta25.github.io/antoniacosta/) [![GitHub](https://img.shields.io/badge/Projetos-GitHub-513364?style=for-the-badge&logo=github)](https://github.com/antoniacosta25?tab=repositories)
 </div>
 
 ## 👩‍💻 Sobre mim
@@ -30,6 +30,6 @@ Java, SQL e orientação a objetos são apresentados como temas de estudo, sem p
 Algoritmos · Orientação a objetos · Banco de dados · Engenharia de software · Estruturas de dados · Programação web · Modelagem de sistemas · Redes · UX · Desenvolvimento mobile.
 
 ## 🔗 Portfólio web
-**[antoniacosta25.github.io](https://antoniacosta25.github.io/)** (disponível após publicar no GitHub Pages).
+**[antoniacosta25.github.io](https://antoniacosta25.github.io/antoniacosta/)** (disponível após publicar no GitHub Pages).
 
 > Cada projeto é um passo na minha evolução como desenvolvedora.

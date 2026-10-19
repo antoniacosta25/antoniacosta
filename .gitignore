@@ -4,3 +4,12 @@
 __pycache__/
 .DS_Store
 Thumbs.db
+
+# Arquivos locais de instalacao
+/INICIAR-ANTONIA-COSTA.bat
+/INSTALACAO.md
+/PROMPT-MASTER.md
+/backups/
+*.log
+.env
+.env.*
