@@ -1,37 +1,62 @@
 [
   {
-    "name": "Hotel-pet",
-    "description": "Projeto acadêmico de desenvolvimento web.",
-    "url": "https://github.com/antoniacosta25/Hotel-pet"
+    "name": "antoniacosta",
+    "description": "Projeto ou exercício disponível no GitHub.",
+    "url": "https://github.com/antoniacosta25/antoniacosta"
   },
   {
     "name": "Caf--Expresso",
-    "description": "Projeto realizado em disciplina.",
+    "description": "projeto da disciplina café Expresso",
     "url": "https://github.com/antoniacosta25/Caf--Expresso"
   },
   {
-    "name": "IFBot",
-    "description": "Projeto acadêmico em HTML.",
-    "url": "https://github.com/antoniacosta25/IFBot"
+    "name": "exercicio-arrow-class-desestruturacao",
+    "description": "Projeto ou exercício disponível no GitHub.",
+    "url": "https://github.com/antoniacosta25/exercicio-arrow-class-desestruturacao"
+  },
+  {
+    "name": "exercicio_3_4",
+    "description": "Exercícios de métodos auxiliares para arrrays",
+    "url": "https://github.com/antoniacosta25/exercicio_3_4"
+  },
+  {
+    "name": "exercicios-6-7-8",
+    "description": "Projeto ou exercício disponível no GitHub.",
+    "url": "https://github.com/antoniacosta25/exercicios-6-7-8"
+  },
+  {
+    "name": "FirebaseApp",
+    "description": "Projeto ou exercício disponível no GitHub.",
+    "url": "https://github.com/antoniacosta25/FirebaseApp"
   },
   {
     "name": "FormularioDadosPessoais",
-    "description": "Formulário desenvolvido com HTML.",
+    "description": "Projeto ou exercício disponível no GitHub.",
     "url": "https://github.com/antoniacosta25/FormularioDadosPessoais"
   },
   {
+    "name": "Hotel-pet",
+    "description": "Projeto ou exercício disponível no GitHub.",
+    "url": "https://github.com/antoniacosta25/Hotel-pet"
+  },
+  {
+    "name": "IFBot",
+    "description": "Projeto ou exercício disponível no GitHub.",
+    "url": "https://github.com/antoniacosta25/IFBot"
+  },
+  {
     "name": "Manipula-o-arvore-dom",
-    "description": "Exercícios de manipulação do DOM.",
+    "description": "Exercícios de Manipulação da árvore dom em JavaScript",
     "url": "https://github.com/antoniacosta25/Manipula-o-arvore-dom"
   },
   {
     "name": "receita-brigadeiro",
-    "description": "Exercício de desenvolvimento web.",
+    "description": "Projeto ou exercício disponível no GitHub.",
     "url": "https://github.com/antoniacosta25/receita-brigadeiro"
   },
   {
     "name": "ReceitaBolo",
-    "description": "Exercício de desenvolvimento web.",
+    "description": "Projeto ou exercício disponível no GitHub.",
     "url": "https://github.com/antoniacosta25/ReceitaBolo"
   }
 ]
