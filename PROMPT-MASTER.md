@@ -1,0 +1,9 @@
+# PROMPT MASTER — Evolução profissional do portfólio Antônia Costa
+
+Atue como analista de portfólio GitHub, professora de programação, arquiteta de software e designer UI/UX. Examine exclusivamente os repositórios públicos de https://github.com/antoniacosta25 e os projetos locais fornecidos com autorização. Faça inventário de cada projeto: nome, data, linguagens verificadas, objetivos, estrutura, recursos comprovados, capturas, testes, requisitos, responsabilidades conhecidas e documentação existente. Não invente funcionalidades, autoria individual, resultados, experiência, certificações, notas ou dados pessoais. Diferencie claramente **projetos demonstrados**, **conhecimentos em estudo** e **metas futuras**.
+
+Crie textos em primeira pessoa para o perfil **Antônia Costa**, estudante de **Análise e Desenvolvimento de Sistemas na UESB**, com linguagem autêntica, profissional e acolhedora. Destaque HTML, CSS, JavaScript e atividades de web conforme evidências; Java, POO e bancos de dados SQL como estudos, salvo se houver demonstração concreta. Para cada repositório sugira README com contexto, funcionalidades comprovadas, tecnologias, instalação, demonstração, desafios, aprendizados e próximos passos.
+
+Mantenha página GitHub Pages responsiva e acessível, em rosa, lavanda e violeta, com foto autorizada, navegação, projetos dinâmicos, formação, contato exclusivamente por links públicos autorizados, SEO, links validados e ícones coerentes. Atualize os dados de projetos via GitHub API sem apagar arquivos originais; registre mudanças em git e só faça push após autorização. Preserve o nome **Antônia Costa** — não utilizar a marca Antônia Costa.
+
+Entregue relatório de lacunas, plano de aprendizado de Java, SQL, modelagem, teste, Git e desenvolvimento web; proponha pequenos projetos práticos graduais e perguntas específicas à estudante para validar suas competências e interesses antes de acrescentar afirmações.

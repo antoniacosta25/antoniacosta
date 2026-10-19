@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Hotel-pet",
+    "description": "Projeto acadêmico de desenvolvimento web.",
+    "url": "https://github.com/antoniacosta25/Hotel-pet"
+  },
+  {
+    "name": "Caf--Expresso",
+    "description": "Projeto realizado em disciplina.",
+    "url": "https://github.com/antoniacosta25/Caf--Expresso"
+  },
+  {
+    "name": "IFBot",
+    "description": "Projeto acadêmico em HTML.",
+    "url": "https://github.com/antoniacosta25/IFBot"
+  },
+  {
+    "name": "FormularioDadosPessoais",
+    "description": "Formulário desenvolvido com HTML.",
+    "url": "https://github.com/antoniacosta25/FormularioDadosPessoais"
+  },
+  {
+    "name": "Manipula-o-arvore-dom",
+    "description": "Exercícios de manipulação do DOM.",
+    "url": "https://github.com/antoniacosta25/Manipula-o-arvore-dom"
+  },
+  {
+    "name": "receita-brigadeiro",
+    "description": "Exercício de desenvolvimento web.",
+    "url": "https://github.com/antoniacosta25/receita-brigadeiro"
+  },
+  {
+    "name": "ReceitaBolo",
+    "description": "Exercício de desenvolvimento web.",
+    "url": "https://github.com/antoniacosta25/ReceitaBolo"
+  }
+]
