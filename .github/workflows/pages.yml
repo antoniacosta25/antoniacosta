@@ -1,26 +1,46 @@
-name: Publicar portfólio
+name: Publicar Portfolio Antonia Costa
+
 on:
   push:
     branches: [main]
   workflow_dispatch:
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: github-pages
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v4
+      - name: Baixar codigo
+        uses: actions/checkout@v4
+
+      - name: Verificar site
+        shell: bash
+        run: |
+          test -f site/index.html
+          test -f site/style.css
+          test -f site/script.js
+
+      - name: Configurar Pages
+        uses: actions/configure-pages@v5
+
+      - name: Enviar arquivos
+        uses: actions/upload-pages-artifact@v4
         with:
-          path: site
-      - id: deployment
+          path: ./site
+
+      - name: Publicar site
+        id: deployment
         uses: actions/deploy-pages@v4
